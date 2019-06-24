@@ -1,0 +1,86 @@
+var favoriteFood = 'pizza';
+console.log(favoriteFood);
+
+
+var numOfSlices = 8
+console.log(numOfSlices );
+
+----------------------------
+Kelvin to Fahrenheit and celsius
+
+var kelvin = 283
+var celsius = kelvin - 273.15
+var fahrenheit = kelvin * 9 /5 - 459.67
+---------------------------------
+
+Create a negative number. (Do not create a variable)
+-5
+
+Create a Boolean
+true
+
+Make an array with 3 String. The Strings can be anything you like. (Do not create a variable)
+["a","b","Create a variable called sum and assign it the value of any number plus any other number.
+c"]
+
+Make an array that contains 5 numbers. (Do not create a variable)
+[1,2,3,4,5]
+
+
+Create an Object that represents you. Give it a property called name with a string value of your name and a property called age with a number value of your age. (Do not create a variable)
+{
+name:"KK",
+age:10
+}
+
+{
+name:"KK",
+age:10
+}
+
+
+Create a variable called favFood and assign it the value of your favorite food.
+let favFood = "Pizza"
+
+Create a variable called favNumber and assign it the value of your favorite number.
+let favNumber = 10
+
+Create a variable called isAwesome and assign it a boolean value.
+let isAwesome = true
+
+
+Create a variable called sum and assign it the value of any number plus any other number.
+let sum = 10+20;
+
+Create a variable called product and assign it the value any number times any other number.
+let product = 10*20;
+
+Create a variable called magicNum that has the value 7. Create another variable called half and assign it the value of magicNum divided by let magicNum =7;
+let half = magicNum /2;
+
+Write an expression to check if 9 is equal to 7
+9===7
+
+Write an expression to check if "apples" is not equal to "oranges"
+"apples"!=="oranges"
+
+
+Using any comparison operator, write an expression that evaluates to true
+1===1
+
+
+Write an expression to determine if 4 is less than 5 AND 4 is greater than 3
+4<5 && 4>3
+
+Write an expression that uses the logical OR operator and evaluates to true
+5<2 || 8<10
+
+
+Write an expression that uses the logical AND operator and evaluates to true
+"apples" ==="apples" && 1===1
+
+
+
+
+
+
